@@ -1,0 +1,7 @@
+node_modules
+.idea
+.idea/vcs.xml
+.idea/inspectionProfiles/
+.idea/lottie-react-native-color.iml
+.idea/modules.xml
+.idea/workspace.xml

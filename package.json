@@ -1,0 +1,29 @@
+{
+  "name": "@killerwink/lottie-react-native-color",
+  "version": "1.0.0",
+  "description": "Change lottie react native .json file colors",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillerWink/lottie-react-native-color.git"
+  },
+  "keywords": [
+    "lottie",
+    "react",
+    "native",
+    "color",
+    "changer"
+  ],
+  "author": "Thomas Gambina <thomas.gambina@gmail.com> (http://killerwink.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KillerWink/lottie-react-native-color/issues"
+  },
+  "homepage": "https://github.com/KillerWink/lottie-react-native-color#readme",
+  "dependencies": {
+    "hex-rgb": "^4.1.0"
+  }
+}
