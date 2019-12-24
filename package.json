@@ -1,6 +1,6 @@
 {
   "name": "@killerwink/lottie-react-native-color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Change lottie react native .json file colors",
   "main": "src/index.js",
   "scripts": {
