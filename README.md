@@ -46,7 +46,7 @@ export const Animation = () => {
             ref={ani => {
                 this.ani = ani;
             }}
-            source={changeSVGColor('./assets/lottie.json', '#0081CF')}
+            source={changeSVGColor(require('./assets/lottie.json'), '#0081CF')}
         />
     );
 };
