@@ -29,7 +29,7 @@ Invoke the function with 2 parameters
 </ul>
 
 ```javascript
-  changeSVGColor('./assets/lottie.json', '#0081CF');
+  changeSVGColor(require('./assets/lottie.json'), '#0081CF');
 ```
 
 # Example Code
